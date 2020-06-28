@@ -1,6 +1,6 @@
 ﻿namespace easygo.graphsolver.api
 {
-    class IGraphSolver
+    public interface IGraphSolver
     {
     }
 }
